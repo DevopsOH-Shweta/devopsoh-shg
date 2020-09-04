@@ -7,6 +7,7 @@ using poi.Data;
 
 namespace poi.Controllers
 {
+    // Testing the CI pipeline
     [Produces("application/json")]
     [Route("api/poi")]
     public class POIController : ControllerBase
